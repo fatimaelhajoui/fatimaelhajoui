@@ -1,6 +1,6 @@
 # Hi, I'm Fatima 👋
 
-## Backend Developer | Java & Spring Boot
+## Backend Developer | Java & Spring BooT
 
 I'm a passionate backend developer specializing in building robust REST APIs 
 with Java and Spring Boot. I love solving complex problems and learning new 
